@@ -1,0 +1,83 @@
+.gradient-background {
+    background-image: url(./wp8606856-super-ultra-wide-wallp.jpg);
+}
+#side-head1{
+color: black;
+font-family: 'Grand Hotel', cursive;
+font-size: x-large;
+font-weight: 500;
+}
+#side-head1:hover{
+   color: white;
+}
+#side-top1{
+    color: white;
+    font-family: 'Grand Hotel', cursive;
+    font-size: x-large;
+    font-weight: 500;
+    }
+
+    #side-top1:hover{
+       color: black;
+    }
+    svg:hover {
+        fill: black; 
+    }
+.top{
+    color: black;
+    font-size: 40px;
+    font-weight: 700;
+    font-family: 'Sacramento', cursive;
+
+}
+
+.intro h1{
+    font-size: 100px;
+    font-family: 'Sacramento', cursive;
+}
+.lead{
+font-family: 'Borel', cursive;
+}
+
+h3{
+    font-family: 'Chau Philomene One', sans-serif;
+
+}
+
+#drdo{
+    height: 50px;
+}
+#education{
+    font-family: 'Trocchi', serif;
+    font-weight: 500 ;
+    font-size: 65px;
+}
+
+.education-discription{
+    font-size: 15px;
+    font-family: 'Chau Philomene One', sans-serif;
+}
+#internship{
+    font-family: 'Trocchi', serif;
+    font-weight: 500 ;
+    font-size: 65px;
+}
+.internship-content{
+    font-size: 15px;
+    font-family: 'Chau Philomene One', sans-serif;
+}
+#project{
+    font-family: 'Trocchi', serif;
+    font-weight: 500 ;
+    font-size: 65px;
+}
+
+.contact{
+    margin-right: 20px;
+    list-style: none;
+    display: flex;
+    gap: 10px;
+}
+
+
+ 
